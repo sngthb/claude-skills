@@ -5,9 +5,9 @@ ResearchフォルダのファイルにSEOブログ記事を書き、原稿フォ
 
 ## 定数
 
-- Researchフォルダ: `/Users/sanonatsumi/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/WordPress/Research/`
-- 原稿フォルダ: `/Users/sanonatsumi/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/WordPress/原稿/`
-- SEO原稿ルール: `/Users/sanonatsumi/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/WordPress/SEO原稿ルール.md`
+- Researchフォルダ: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/WordPress/Research/`
+- 原稿フォルダ: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/WordPress/原稿/`
+- SEO原稿ルール: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/WordPress/SEO原稿ルール.md`
 
 ## Step 1: 対象ファイルを特定
 
