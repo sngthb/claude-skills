@@ -22,7 +22,7 @@ if not urls:
 def safe_name(s):
     return re.sub(r'[\\/:*?"<>|]', '', s).strip()
 
-base_path = "/Users/sanonatsumi/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/YouTube/Research/"
+base_path = os.path.expanduser("~/Library/Mobile Documents/iCloud~md~obsidian/Documents/index/ContentsMake/YouTube/Research/")
 
 def process(url):
     vid_match = re.search(r'(?:v=|youtu\.be/)([A-Za-z0-9_-]{11})', url)
